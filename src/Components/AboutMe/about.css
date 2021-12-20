@@ -1,0 +1,52 @@
+.about {
+  border: 0px solid grey;
+  height: auto;
+  width: 100%;
+  margin-top: 70px;
+  padding: 10px;
+}
+
+.aboutDetails {
+  /* box-shadow: 0 0px 2px 0 rgb(61, 60, 60); */
+  box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+  height: 100%;
+  margin-top: 30px;
+  border-radius: 0px;
+}
+
+.myPicture {
+  background-image: url("../../Images/saheedadewale.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.more {
+  padding: 20px;
+}
+
+.info-header {
+  font-size: 22px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(240, 13, 13);
+  font-weight: bold;
+}
+
+.sub-details {
+  font-size: 16px;
+  font-family: sans-serif;
+  color: grey;
+  line-height: 30px;
+}
+
+.highlight {
+  margin-top: 60px;
+}
+
+.highlight ul {
+  font-size: 16px;
+  font-family: sans-serif;
+  color: grey;
+  line-height: 30px;
+}
